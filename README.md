@@ -4,14 +4,14 @@
 **Professor:** Dr.Kyeong Soo Kim (Joseph)  
 **Student:** Yupeng Cao, 1302533
 
-####Catalogue
+#### Catalogue
 * Introduction
 * Methodology
 * Optimizing Logically
 * Results and Discussions 
 * Conclusions
 
-##Introduction
+## Introduction
 ### Background
 Indoor Localization is a challenging task and there exist no universal solution for all possible applications.
 
