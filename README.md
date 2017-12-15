@@ -12,6 +12,9 @@
 * Results and Discussions 
 * Conclusions
 
+### Abstract
+Investigating machine learning methods provide a global locatio recognition solution from WiFi Data. This project aims to improve the accuracy performance. By modifying the parameter, the accuracy can achieve to 75.5%. The project also provides some new ideas for the future work.
+
 ## Introduction
 ### Background
 Indoor Localization is a challenging task and there exist no universal solution for all possible applications.
