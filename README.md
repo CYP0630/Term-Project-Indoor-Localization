@@ -5,14 +5,14 @@
 **Professor:** Dr.Kyeong Soo Kim (Joseph)  
 **Student:** Yupeng Cao, 1302533
 
-####Catalogue
+#### Catalogue
 * Introduction
 * Methodology
 * Optimizing Logically
 * Results and Discussions 
 * Conclusions
 
-##Introduction
+## Introduction
 ### Background
 Indoor Localization is a challenging task and there exist no universal solution for all possible applications.
 
@@ -56,7 +56,7 @@ Thus, we choose some key parameter to optimize to try to improve the performance
 * Classifier Activation
 
 
-##Results and Discussions 
+## Results and Discussions 
 * **Batch Size and Epoch times**
 ![256512accuracy](figure/Batch Size and Epoch.png)
 ![256512accuracy](figure/256512.png)
