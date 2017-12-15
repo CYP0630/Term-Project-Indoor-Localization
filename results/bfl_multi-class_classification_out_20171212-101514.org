@@ -1,0 +1,22 @@
+#+STARTUP: showall
+* System parameters
+  - Numpy random number seed: 0
+  - Ratio of training data to overall data: 0.70
+  - Ratio of validation data to overall data: 0.20
+  - Ratio of test data to overall data: 0.10
+  - Number of epochs: 20
+  - Batch size: 10
+  - SAE hidden layers: 256-128-64-128-256
+  - SAE activation: tanh
+  - SAE bias: False
+  - SAE optimizer: adam
+  - SAE loss: mse
+  - Classifier hidden layers: 128-256-512
+  - Classifier hidden layer activation: relu
+  - Classifier bias: False
+  - Classifier optimizer: adagrad
+  - Classifier loss: categorical_crossentropy
+  - Classifier dropout rate: 0.20
+* Performance
+  - Loss = 1.251346e+00
+  - Accuracy (overall): 5.983773e-01
